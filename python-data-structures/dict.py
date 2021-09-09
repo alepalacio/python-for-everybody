@@ -1,5 +1,5 @@
 """
-CREANDO UN DICCIONARIO
+Creating a dictionary
 """
 
 from sys import path
@@ -15,7 +15,7 @@ if "test" in new_dict:
     print("Found")
 
 """
-CREANDO UN DICT DESDE UN LIST, CON FOR E IF
+Creating a dict
 """
 
 dict_names = dict()    
@@ -30,7 +30,7 @@ for name in names:
 print("For and if", dict_names)
 
 """
-CREANDO UN DICT CON GET
+Creating a dict .get()
 """
 
 dict_names = dict()
